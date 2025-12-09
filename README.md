@@ -1,6 +1,3 @@
-# Hotel-Reservation-System
-A console-based Hotel Reservation System in Java with file persistence and OOP.
-
 # 🏨 Hotel Reservation System – CodeAlpha
 
 A **Java console-based hotel booking system** developed during an **internship at CodeAlpha**.  
