@@ -1,8 +1,8 @@
 # 🏨 Hotel Reservation System – CodeAlpha
 
 A **Java console-based hotel booking system** developed during an **internship at CodeAlpha**.  
-Uses **OOP** and **file-based persistence**.  
-Search, book, and cancel rooms with a **simple console interface** and **payment simulation**.
+Supports **room search, booking, cancellation**, and uses **OOP with file-based persistence**.  
+Includes a **simple console interface** and **payment simulation**.
 
 ---
 
@@ -13,4 +13,3 @@ Search, book, and cancel rooms with a **simple console interface** and **payment
 - 🔹 View bookings by **guest name** or **reservation ID**  
 - 🔹 Persistent storage using `.dat` files  
 - 🔹 **Payment simulation** (85% success rate)
-
